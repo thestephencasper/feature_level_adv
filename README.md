@@ -8,7 +8,7 @@ Gabriel Kreiman
 
 ## Paper
 
-TODO LINK AND BIBTEX
+TODO: make repo public, add link to paper, upload to arxiv, amd add paper link and bibtex into repo.
 
 ## Contents
 
