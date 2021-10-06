@@ -1,8 +1,8 @@
 # One Thing to Fool Them All: Generating Interpretable, Universal, and Physically-Realizable Adversarial Features
 
-Stephen Casper (scasper@csail.mit.edu)
+Stephen Casper* (scasper@csail.mit.edu)
 
-Max Nadeau (mnadeau@college.harvard.edu)
+Max Nadeau* (mnadeau@college.harvard.edu)
 
 Gabriel Kreiman
 
