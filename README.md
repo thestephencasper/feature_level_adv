@@ -8,7 +8,18 @@ Gabriel Kreiman
 
 ## Paper
 
-arXiv submission pending -- check back in a couple of days. 
+https://arxiv.org/abs/2110.03605
+
+```
+@misc{casper2021thing,
+      title={One Thing to Fool them All: Generating Interpretable, Universal, and Physically-Realizable Adversarial Features}, 
+      author={Stephen Casper and Max Nadeau and Gabriel Kreiman},
+      year={2021},
+      eprint={2110.03605},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
 
 ## Contents
 
