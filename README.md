@@ -21,6 +21,10 @@ https://arxiv.org/abs/2110.03605
 }
 ```
 
+## An Example
+
+![fig1](fig1.png)
+
 ## Contents
 
 - feature_level_adv_demo.ipynb
